@@ -1,0 +1,5 @@
+com/gia/scrollingtext/BuildConfig.java
+ com.gia.scrollingtext.BuildConfig
+com/gia/scrollingtext/MainActivity.java
+ com.gia.scrollingtext.MainActivity
+ com.gia.scrollingtext.MainActivity$1

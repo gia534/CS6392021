@@ -1,0 +1,4 @@
+com/gia/hellotoast/BuildConfig.java
+ com.gia.hellotoast.BuildConfig
+com/gia/hellotoast/MainActivity.java
+ com.gia.hellotoast.MainActivity

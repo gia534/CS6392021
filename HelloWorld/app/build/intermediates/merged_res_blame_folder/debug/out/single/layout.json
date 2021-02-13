@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/gaellegilles/HelloWorld/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_second.xml",
+        "source": "/Users/gaellegilles/HelloWorld/app/src/main/res/layout/fragment_second.xml"
+    },
+    {
+        "merged": "/Users/gaellegilles/HelloWorld/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_first.xml",
+        "source": "/Users/gaellegilles/HelloWorld/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Users/gaellegilles/HelloWorld/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/Users/gaellegilles/HelloWorld/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/gaellegilles/HelloWorld/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/gaellegilles/HelloWorld/app/src/main/res/layout/activity_main.xml"
+    }
+]

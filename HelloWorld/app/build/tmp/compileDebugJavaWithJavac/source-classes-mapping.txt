@@ -1,0 +1,19 @@
+com/gia/helloworld/databinding/FragmentSecondBinding.java
+ com.gia.helloworld.databinding.FragmentSecondBinding
+com/gia/helloworld/BuildConfig.java
+ com.gia.helloworld.BuildConfig
+com/gia/helloworld/MainActivity.java
+ com.gia.helloworld.MainActivity
+ com.gia.helloworld.MainActivity$1
+com/gia/helloworld/databinding/ActivityMainBinding.java
+ com.gia.helloworld.databinding.ActivityMainBinding
+com/gia/helloworld/FirstFragment.java
+ com.gia.helloworld.FirstFragment
+ com.gia.helloworld.FirstFragment$1
+com/gia/helloworld/databinding/ContentMainBinding.java
+ com.gia.helloworld.databinding.ContentMainBinding
+com/gia/helloworld/SecondFragment.java
+ com.gia.helloworld.SecondFragment
+ com.gia.helloworld.SecondFragment$1
+com/gia/helloworld/databinding/FragmentFirstBinding.java
+ com.gia.helloworld.databinding.FragmentFirstBinding

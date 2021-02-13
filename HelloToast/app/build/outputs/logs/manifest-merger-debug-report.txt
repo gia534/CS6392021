@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d63434b98a6cce174c585e85a05eb498/material-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0f12a7b7553f29a0a50845a08636cb08/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e299becd5ccef1f67782b87c5070fce5/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0d8dcb2e96c83ab99d5288d55d682f4d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3f947bd9f30fa966cd4010c01c961636/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/bff6d28abb3716a8209fa9300ac9e050/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/038dd429afb48997972ff170ccd9228a/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/c4dedc22caa6a5707babd84f74101931/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a74fd7b6e7e192f722773d63e44567d8/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f41fd0f59d715a72c342738a25d2e27f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3a7c31b36544ffaf9489b4f0c9b558f1/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f484da6beb06acea30819e68570a4541/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/2e64415a8bbd7e5d04a0f70a8063798c/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ca79152d15db576c577d965bd3450988/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a7fb5a1c883855986b627930aec1a478/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e18564bf07b32897c0bb170557ed19d1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/040ec076d8c790fe3aaabbe944af3fa5/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/5826bc070f932f4fb28662e6dfb1b753/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ac05e138dbef64ea7a4f6a5899ae5361/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/cdbd50937fee9075c69018e295f53fbc/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/199b45e1f14fa40499f0de8caf132b00/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8f9982231ecf7925a5efabcb1ea41468/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b862f27a95ac0261d51fdf56d501e42c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b1d927f3ef12ea16415fd4771e6ca6dc/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8a5103633afc3d84c528698d79952be3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/9e3f171b5e21e060f9d0af82623a4bbd/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3d5ba95374d6e99ed84a274260c8bf71/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/51321b12c4d4607e7f8312d7625ffffc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ff0d93833b4e96f1eb19635cbd63b963/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0a330c0ccdad5a6421fb3e29d405330f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d2e5c11f7a0dfab72f986b0b72dfb2a3/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a94b13879039ecc8653fd6619a029453/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.3.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d63434b98a6cce174c585e85a05eb498/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d63434b98a6cce174c585e85a05eb498/material-1.3.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0f12a7b7553f29a0a50845a08636cb08/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0f12a7b7553f29a0a50845a08636cb08/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/199b45e1f14fa40499f0de8caf132b00/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/199b45e1f14fa40499f0de8caf132b00/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:8:9-41
+	android:background
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:13:9-47
+	android:roundIcon
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:10:9-54
+	android:configChanges
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:9:9-83
+	android:icon
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:12:9-48
+activity#com.gia.hellotoast.MainActivity
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.3.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d63434b98a6cce174c585e85a05eb498/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d63434b98a6cce174c585e85a05eb498/material-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0f12a7b7553f29a0a50845a08636cb08/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0f12a7b7553f29a0a50845a08636cb08/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e299becd5ccef1f67782b87c5070fce5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e299becd5ccef1f67782b87c5070fce5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0d8dcb2e96c83ab99d5288d55d682f4d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0d8dcb2e96c83ab99d5288d55d682f4d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3f947bd9f30fa966cd4010c01c961636/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3f947bd9f30fa966cd4010c01c961636/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/bff6d28abb3716a8209fa9300ac9e050/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/bff6d28abb3716a8209fa9300ac9e050/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/038dd429afb48997972ff170ccd9228a/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/038dd429afb48997972ff170ccd9228a/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/c4dedc22caa6a5707babd84f74101931/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/c4dedc22caa6a5707babd84f74101931/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a74fd7b6e7e192f722773d63e44567d8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a74fd7b6e7e192f722773d63e44567d8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f41fd0f59d715a72c342738a25d2e27f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f41fd0f59d715a72c342738a25d2e27f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3a7c31b36544ffaf9489b4f0c9b558f1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3a7c31b36544ffaf9489b4f0c9b558f1/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f484da6beb06acea30819e68570a4541/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/f484da6beb06acea30819e68570a4541/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/2e64415a8bbd7e5d04a0f70a8063798c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/2e64415a8bbd7e5d04a0f70a8063798c/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ca79152d15db576c577d965bd3450988/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ca79152d15db576c577d965bd3450988/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a7fb5a1c883855986b627930aec1a478/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a7fb5a1c883855986b627930aec1a478/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e18564bf07b32897c0bb170557ed19d1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/e18564bf07b32897c0bb170557ed19d1/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/040ec076d8c790fe3aaabbe944af3fa5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/040ec076d8c790fe3aaabbe944af3fa5/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/5826bc070f932f4fb28662e6dfb1b753/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/5826bc070f932f4fb28662e6dfb1b753/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ac05e138dbef64ea7a4f6a5899ae5361/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ac05e138dbef64ea7a4f6a5899ae5361/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/cdbd50937fee9075c69018e295f53fbc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/cdbd50937fee9075c69018e295f53fbc/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/02563dda2c183e2da46dc154b5839f2b/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/199b45e1f14fa40499f0de8caf132b00/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/199b45e1f14fa40499f0de8caf132b00/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8f9982231ecf7925a5efabcb1ea41468/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8f9982231ecf7925a5efabcb1ea41468/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b862f27a95ac0261d51fdf56d501e42c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b862f27a95ac0261d51fdf56d501e42c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b1d927f3ef12ea16415fd4771e6ca6dc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/b1d927f3ef12ea16415fd4771e6ca6dc/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8a5103633afc3d84c528698d79952be3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/8a5103633afc3d84c528698d79952be3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/9e3f171b5e21e060f9d0af82623a4bbd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/9e3f171b5e21e060f9d0af82623a4bbd/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3d5ba95374d6e99ed84a274260c8bf71/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/3d5ba95374d6e99ed84a274260c8bf71/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/51321b12c4d4607e7f8312d7625ffffc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/51321b12c4d4607e7f8312d7625ffffc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ff0d93833b4e96f1eb19635cbd63b963/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/ff0d93833b4e96f1eb19635cbd63b963/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0a330c0ccdad5a6421fb3e29d405330f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/0a330c0ccdad5a6421fb3e29d405330f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d2e5c11f7a0dfab72f986b0b72dfb2a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/d2e5c11f7a0dfab72f986b0b72dfb2a3/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a94b13879039ecc8653fd6619a029453/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/gaellegilles/.gradle/caches/transforms-2/files-2.1/a94b13879039ecc8653fd6619a029453/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		ADDED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/gaellegilles/HelloToast/app/src/main/AndroidManifest.xml
