@@ -2,6 +2,8 @@ package com.gia.hellotoast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.res.Configuration;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
@@ -38,5 +40,13 @@ public class MainActivity extends AppCompatActivity {
         //Set mCount to 0 then use setText to show mCount
         mCount = 0;
         mShowCount.setText(String.valueOf(mCount));
+    }
+    @Override
+    public void onConfigurationChanged(Configuration config){
+        if(config.orientation == Configuration.ORIENTATION_LANDSCAPE){
+            Toast.makeText(this, "landscape", Toast.LENGTH_LONG).show();
+        }else if(config.orientation == Configuration.ORIENTATION_PORTRAIT){
+            Toast.makeText(this, "portrait", Toast.LENGTH_LONG).show();mCount++;
+        }
     }
 }
