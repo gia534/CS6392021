@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eeffff"
+    tools:context=".MainActivity">
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar_main"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <TextView
+        android:id="@+id/share_and_create_tv"
+        android:layout_width="681dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="104dp"
+        android:fontFamily="casual"
+        android:gravity="center_horizontal"
+        android:text="@string/share_create_tv"
+        android:textColor="@android:color/secondary_text_dark_nodisable"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/navigation_web_tv"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="170dp"
+        android:layout_marginLeft="170dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginRight="116dp"
+        android:fontFamily="casual"
+        android:gravity="center_horizontal"
+        android:text="@string/navigation_web_tv"
+        android:textColor="@android:color/secondary_text_dark_nodisable"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBaseline_toBaselineOf="@+id/tv_communication"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.612"
+        app:layout_constraintStart_toEndOf="@+id/tv_communication" />
+
+    <TextView
+        android:id="@+id/tv_communication"
+        android:layout_width="340dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#eeffff"
+        android:fontFamily="casual"
+        android:gravity="center_horizontal"
+        android:text="@string/communication_tc"
+        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="@android:color/secondary_text_dark_nodisable"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+    <Button
+        android:id="@+id/navigation_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:onClick="navigation"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_navigation_black_36"
+        app:layout_constraintBaseline_toBaselineOf="@+id/phone_button"
+        app:layout_constraintEnd_toStartOf="@+id/web_button" />
+
+    <Button
+        android:id="@+id/web_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="49dp"
+        android:layout_marginRight="49dp"
+        android:onClick="web"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_web_black_36"
+        app:layout_constraintBaseline_toBaselineOf="@+id/navigation_button"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <Button
+        android:id="@+id/phone_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="116dp"
+        android:layout_marginRight="116dp"
+        android:onClick="phone"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_call_black_36"
+        app:layout_constraintBaseline_toBaselineOf="@+id/message_button"
+        app:layout_constraintEnd_toStartOf="@+id/navigation_button" />
+
+    <Button
+        android:id="@+id/message_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:drawableEnd="@android:drawable/btn_dialog"
+        android:drawableRight="@android:drawable/btn_dialog"
+        android:onClick="message"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_textsms_black_36"
+        app:layout_constraintEnd_toStartOf="@+id/phone_button"
+        app:layout_constraintHorizontal_bias="0.357"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_communication" />
+
+    <Button
+        android:id="@+id/create_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="228dp"
+        android:layout_marginRight="228dp"
+        android:onClick="create"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_create_black_36"
+        app:layout_constraintBaseline_toBaselineOf="@+id/share_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.808"
+        app:layout_constraintStart_toEndOf="@+id/share_button" />
+
+    <Button
+        android:id="@+id/share_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="232dp"
+        android:layout_marginLeft="232dp"
+        android:layout_marginTop="11dp"
+        android:layout_marginBottom="18dp"
+        android:onClick="share"
+        app:backgroundTint="#B8B6B6"
+        app:icon="@drawable/baseline_share_black_36"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/share_and_create_tv"
+        app:layout_constraintVertical_bias="1.0" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
