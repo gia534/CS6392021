@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Downloader</string>
+    <string name="loading">Loading…</string>
+    <string name="download_image">DOWNLOAD IMAGE</string>
+    <string name="enter_website_link">Enter website link for image</string>
+    <string name="description">L.A., California</string>
+    <string name="enter_image_url_textView">Enter image URL to download image</string>
+</resources>
