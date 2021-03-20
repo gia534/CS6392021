@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DollarsToEuros</string>
+    <string name="convert">Convert</string>
+    <string name="enter_amount_in_us_dollars">Enter Amount in US Dollars</string>
+    <string name="Euros">Euros</string>
+    <string name="euros">Euros</string>
+</resources>
