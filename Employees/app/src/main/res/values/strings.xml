@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Employees</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="add_employee">Add Employee</string>
+    <string name="newEmployee_Tv">To add employee\'s name to the list, type their first and last name below. Then click the button below.</string>
+</resources>
