@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONPractice</string>
+    <string name="sort_by_id">Sort By ListID</string>
+    <string name="sort_by_name">Sort By Name</string>
+</resources>
